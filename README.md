@@ -1,7 +1,7 @@
 # Sight and Sound 2012 Poll Notebooks
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dn480000/sight-and-sound-notebooks/master)
 
-The project lets you easily scrape Sight and Sound 2012 Poll and recommed films using Personalized PageRank with Jupyter notebooks. 
+The notebooks let you easily scrape Sight and Sound 2012 Poll and recommend films using Personalized PageRank with Jupyter notebooks.
 
 You should first use `scrape.ipynb` to scape the poll data and save it in `/data`. You can use `recommend.ipynb` to study some basic characteristics of the votes data and then apply an implemtation of Personalized PageRank.
 
